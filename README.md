@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="300" width="600" src="https://www.photofunky.net/output/image/e/6/1/7/e61752/photofunky.gif"  />
-</div>
+
+![text](https://www.photofunky.net/output/image/e/6/1/7/e61752/photofunky.gif)
 
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Roman
